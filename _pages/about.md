@@ -17,42 +17,63 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
+Welcome to my academic nest!
+I'm Yiting, and you can call me Viva (yep, the same as the name of a famous song written by Coldplay).
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+I am going to graduate from Zhejiang University with a Master degree in Journalism and Communication in June 2025. Resovled to become a scholar, I am currently preparing for my PhD application.
 
+My research interest lies in the intersection of social support, interpersonal, family, health and technology-mediated communication. I am greatly fascinated by an ultimate question: how can we support each other to overcome challenges in this constantly changing world?
+
+If you are interested in talking with me, please feel free to email me at 22323065@zju.edu.cn
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2024.11*: &nbsp;🎉 Our paper "Proxy and learning back-feeding: How Older Adults in China Use Smartphones" is received the Top Paper Award in CCA Division of the 110th NCA, thanks for my co-authors!
+- *2024.11*: &nbsp;🎉 Our paper "Proxy and learning back-feeding: How Older Adults in China Use Smartphones" is accepted for publication on the journal "Mobile Media and Communication", so excited!!
+- *2024.10*: &nbsp; Three paper are submitted to the 75th ICA, good luck.
+- *2024.10*: &nbsp;🎉 Our paper "Intergenerational Support Gap in the Digital Integration of Older Adults" is published on the journal "Global Journal of Media Studies", thanks for my co-authors!
+- *2024.07*: &nbsp; Our research "Exploring dynamics of older adults' smartphone usage in China: Mental health, using preferences, smartphone dependency" is presented at the 2024 IAMCR, thanks for my co-authors!
 
 # 📝 Publications 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+[Communication Patterns Matter: Chinese Older Adults' Openness to Share Personal Health Information in Families]
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+**Yiting Liu**, Siyue Li
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 </div>
 </div>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+- [Communication Patterns Matter: Chinese Older Adults' Openness to Share Personal Health Information in Families] (under review). **Yiting Liu**, Siyue Li.
+- [Proxy and learning back-feeding: How older adults use smartphones in China] (forthcoming). Siyue Li, **Yiting Liu**, Chengyu She. Mobile Media and Communication.
+- [Cultural Influence on Planned Alcohol Consumption: A Chinese Perspective on Self-View] (under review). Wenjing Pan, **Yiting Liu**, Siyue Li.
+- [Intergenerational Support Gap in the Digital Integration of Older Adults (in Chinese)] (in Chinese). Siyue Li, Runnan Wei, **Yiting Liu**, Shiyu Han. Global Journal of Media Studies (CSSCI).
+
+# 📝 Conference Presentations
+- *2024.11* Li, S.,**Liu, Y.**, She, C. Proxy and learning back-feeding: How older adults use smartphones in China **(Top Paper Award)**, the 110th NCA, New Orleans, USA
+- *2024.07* **Liu, Y.**, Li S., Han, S., Liu, X. Exploring dynamics of older adults' smartphone usage in China: Mental health, using preferences, smartphone dependency. the 2024 IAMCR, Christchurch, NewZealand.
+
+# 💬 Research Experience
+- *2023.09-present*, Research Assistant
+- Assisted Professor Siyue (April) Li with the research program "the Impact of New Media Use on Older Adults' Subjective Well-Being under the Perspective of Social Support" granted by the National Social Science Fund, including designing the theoretical research framework, analyzing the data and writing several sections of a series of research paper.
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2024.11* **Top Paper Award**, CCA Division, National Communication Association
+- *2024.10* **Outstanding Graduate Student** (Top 10%), Zhejiang University
+- *2022.11* **Second Prize Academic Scholarship** (Top 15%), East China Normal University
+- *2021.11* **First Prize Academic Scholarship** (Top 10%), East China Normal University
+- *2020.11* **Second Prize Academic Scholarship** (Top 15%), East China Normal University
+
+# 📖 Teaching Experience
+- *2024.09 - present*, Teaching Assistant, MIC3153M Health Communication, Zhejiang University
+- *2019.07 - 08, 2020.07 - 08, 2023.07 - 08*, English Instructor, New Mufu Education Inc.
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+- *2023.09 - 2025.06 (expected)*, Master in Journalism and Communication, Zhejiang University, Hangzhou
+- *2019.09 - 2023.06*, Bachelor in Journalism, East China Normal University, Shanghai
 
 # 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+- *2022.08 - 2023.01*, Dentsu Advertising, Shanghai, China.
+- *2021.07 - 2021.08*, Eastday.com, Shanghai, China.
