@@ -24,6 +24,8 @@ I am going to graduate from Zhejiang University with a Master degree in Journali
 
 My research interest lies in the intersection of social support, interpersonal, family, health and technology-mediated communication. I am greatly fascinated by an ultimate question: how can we support each other to overcome challenges in this constantly changing world?
 
+Out of my academic world, I am crazy about getting close to the nature. I go hiking, climb mountains and ride a bike on a regular basis in my daily life, which I believe are all great means to reinvigorate myself. I have to say I enjoy the feeling of sweating and challenging my ceiling.
+
 If you are interested in talking with me, please feel free to email me at 22323065@zju.edu.cn
 
 # 🔥 News
