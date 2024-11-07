@@ -8,7 +8,7 @@
 # Site Settings
 title                    : "Yiting Liu"
 description              : "To be Free and Unafraid"
-repository               : "Tingtttt01/yiting.github.io"
+repository               : "Tingtttt01/Tingtttt01.github.io"
 google_scholar_stats_use_cdn : # true
 
 # google analytics
@@ -59,7 +59,7 @@ author:
   wikipedia        : #
 
 # Site URL and Baseurl
-url: "https://yiting.github.io"  # 站点的根 URL
+url: "https://Tingtttt01.github.io"  # 站点的根 URL
 baseurl: ""  # 空字符串表示站点位于 GitHub 仓库的根目录
 
 # Reading Files
