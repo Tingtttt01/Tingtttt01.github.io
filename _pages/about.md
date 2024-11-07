@@ -38,20 +38,39 @@ If you are interested in talking with me, please feel free to email me at 223230
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/FCP' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Communication Patterns Matter: Chinese Older Adults' Openness to Share Personal Health Information in Families]
 
-**Yiting Liu**, Siyue Li
+**Yiting Liu**, Siyue Li.
 
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 </div>
 </div>
 
-- [Communication Patterns Matter: Chinese Older Adults' Openness to Share Personal Health Information in Families] (under review). **Yiting Liu**, Siyue Li.
-- [Proxy and learning back-feeding: How older adults use smartphones in China] (forthcoming). Siyue Li, **Yiting Liu**, Chengyu She. Mobile Media and Communication.
-- [Cultural Influence on Planned Alcohol Consumption: A Chinese Perspective on Self-View] (under review). Wenjing Pan, **Yiting Liu**, Siyue Li.
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/Backfeeding' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Proxy and learning back-feeding: How older adults use smartphones in China] (forthcoming). Mobile Media and Communication.
+
+Siyue Li, **Yiting Liu**, Chengyu She. 
+
+- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/TPB' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Cultural Influence on Planned Alcohol Consumption: A Chinese Perspective on Self-View] (under review). 
+
+Wenjing Pan, **Yiting Liu**, Siyue Li.
+
+- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+</div>
+</div>
+
 - [Intergenerational Support Gap in the Digital Integration of Older Adults (in Chinese)] (in Chinese). Siyue Li, Runnan Wei, **Yiting Liu**, Shiyu Han. Global Journal of Media Studies (CSSCI).
 
 # 📝 <a id="conference-presentations"></a>Conference Presentations
