@@ -10,16 +10,16 @@ main:
     url: "/#-publications"
 
   - title: "Conference Presentations"
-    url: "/#-conference presentations"
+    url: "/#conference-presentations"
 
   - title: "Research Experience"
-    url: "/#-research experience"
+    url: "/#research experience"
 
   - title: "Honors and Awards"
     url: "/#-honors-and-awards"
 
   - title: "Teaching Experience"
-    url: "/#-teaching experience"
+    url: "/#teaching-experience"
 
   - title: "Educations"
     url: "/#-educations"
