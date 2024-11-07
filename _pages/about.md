@@ -54,11 +54,11 @@ If you are interested in talking with me, please feel free to email me at 223230
 - [Cultural Influence on Planned Alcohol Consumption: A Chinese Perspective on Self-View] (under review). Wenjing Pan, **Yiting Liu**, Siyue Li.
 - [Intergenerational Support Gap in the Digital Integration of Older Adults (in Chinese)] (in Chinese). Siyue Li, Runnan Wei, **Yiting Liu**, Shiyu Han. Global Journal of Media Studies (CSSCI).
 
-# 📝 Conference Presentations
+# 📝 <a id="conference-presentations"></a>Conference Presentations
 - *2024.11* Li, S.,**Liu, Y.**, She, C. Proxy and learning back-feeding: How older adults use smartphones in China **(Top Paper Award)**, the 110th NCA, New Orleans, USA
 - *2024.07* **Liu, Y.**, Li S., Han, S., Liu, X. Exploring dynamics of older adults' smartphone usage in China: Mental health, using preferences, smartphone dependency. the 2024 IAMCR, Christchurch, NewZealand.
 
-# 💬 Research Experience
+# 💬 <a id="research-experience"></a>Research Experience
 - *2023.09-present*, Research Assistant
 - Assisted Professor Siyue (April) Li with the research program "the Impact of New Media Use on Older Adults' Subjective Well-Being under the Perspective of Social Support" granted by the National Social Science Fund, including designing the theoretical research framework, analyzing the data and writing several sections of a series of research paper.
 
@@ -69,7 +69,7 @@ If you are interested in talking with me, please feel free to email me at 223230
 - *2021.11* **First Prize Academic Scholarship** (Top 10%), East China Normal University
 - *2020.11* **Second Prize Academic Scholarship** (Top 15%), East China Normal University
 
-# 📖 Teaching Experience
+# 📖 <a id="teaching-experience"></a>Teaching Experience
 - *2024.09 - present*, Teaching Assistant, MIC3153M Health Communication, Zhejiang University
 - *2019.07 - 08, 2020.07 - 08, 2023.07 - 08*, English Instructor, New Mufu Education Inc.
 
