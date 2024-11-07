@@ -38,7 +38,7 @@ If you are interested in talking with me, please feel free to email me at 223230
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/FCP' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2024</div><img src='images/FCP.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Communication Patterns Matter: Chinese Older Adults' Openness to Share Personal Health Information in Families]
@@ -49,10 +49,10 @@ If you are interested in talking with me, please feel free to email me at 223230
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/Backfeeding' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Mobile Media and Communication 2024</div><img src='images/Backfeeding.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Proxy and learning back-feeding: How older adults use smartphones in China] (forthcoming). Mobile Media and Communication.
+[Proxy and learning back-feeding: How older adults use smartphones in China] (forthcoming). 
 
 Siyue Li, **Yiting Liu**, Chengyu She. 
 
@@ -60,7 +60,7 @@ Siyue Li, **Yiting Liu**, Chengyu She.
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/TPB' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2024</div><img src='images/TPB.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Cultural Influence on Planned Alcohol Consumption: A Chinese Perspective on Self-View] (under review). 
