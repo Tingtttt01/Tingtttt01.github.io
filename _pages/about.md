@@ -17,10 +17,11 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Welcome to my academic nest!
+**Welcome!**
+
 I'm Yiting, and you can call me Viva (yep, the same as the name of a famous song written by Coldplay).
 
-I am going to graduate from Zhejiang University with a Master degree in Journalism and Communication in June 2025. Resovled to become a scholar, I am currently preparing for my PhD application.
+I am going to graduate from Zhejiang University with a Master Degree in Journalism and Communication in June 2025. Resovled to become a scholar, I am currently preparing for my PhD application.
 
 My research interest lies in the intersection of social support, interpersonal, family, health and technology-mediated communication. I am greatly fascinated by an ultimate question: how can we support each other to overcome challenges in this constantly changing world?
 
