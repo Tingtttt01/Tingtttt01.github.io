@@ -22,10 +22,10 @@ gem "wdm", "~> 0.2.0" if Gem.win_platform?
 # If you have any plugins, put them here!
 group :jekyll_plugins do
   # gem "jekyll-archives"
-  gem "jekyll-feed"
-  gem 'jekyll-sitemap'
-  gem 'hawkins'
-  gem 'tzinfo'
-  gem 'tzinfo-data'
+  # gem "jekyll-feed"
+  # gem 'jekyll-sitemap'
+   gem 'hawkins'
+   gem 'tzinfo'
+   gem 'tzinfo-data'
 
 end

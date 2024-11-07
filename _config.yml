@@ -9,7 +9,7 @@
 title                    : "Yiting Liu"
 description              : "To be Free and Unafraid"
 repository               : "Tingtttt01/yiting.github.io"
-google_scholar_stats_use_cdn : true
+google_scholar_stats_use_cdn : # true
 
 # google analytics
 google_analytics_id      :  # get google_analytics_id from https://analytics.google.com/analytics/
@@ -25,8 +25,8 @@ author:
   avatar           : "images/android-chrome-512x512.png"
   bio              : "Zhejiang University"
   location         : "Hangzhou, China"
-  employer         :
-  pubmed           : 
+  employer         : #
+  pubmed           : #
   googlescholar    :  # "https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
   email            : "22323065@zju.edu.cn"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
@@ -35,28 +35,28 @@ author:
   codepen          :
   dribbble         :
   flickr           :
-  facebook         :
-  foursquare       :
+  facebook         : #
+  foursquare       : #
   github           : # e.g., "github username"
-  google_plus      :
-  keybase          :
-  instagram        :
+  google_plus      : #
+  keybase          : #
+  instagram        : #
   impactstory      : # e.g., "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
-  lastfm           :
+  lastfm           : #
   linkedin         : # e.g., "linkedin username"
   dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
   orcid            : # e.g., "https://orcid.org/xxxx"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
-  steam            :
-  tumblr           :
-  twitter          : 
-  vine             :
-  weibo            :
-  xing             :
-  youtube          :
-  wikipedia        :
+  steam            : #
+  tumblr           : #
+  twitter          : #
+  vine             : #
+  weibo            : #
+  xing             : #
+  youtube          : #
+  wikipedia        : #
 
 
 # Reading Files
