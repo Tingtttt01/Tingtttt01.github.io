@@ -21,14 +21,20 @@ redirect_from:
 
 I'm Yiting, and you can call me Viva (yep, the same as the name of a famous song written by Coldplay).
 
+I am going to graduate from Zhejiang University with a Master's Degree in Journalism and Communication in June 2025. Resovled to become a communication reseacher, I am currently preparing for my PhD application.
+
+My research interest lies in the intersection of social support, interpersonal, family, health and technology-mediated communication. I am greatly fascinated by an ultimate question: **how can we support each other to overcome challenges in this constantly changing world?**
+
+Out of my academic zone, I go hiking, climb mountains and ride a bike on a regular basis to reinvigorate myself. 
+
 If you are interested in talking with me, please feel free to email me at 22323065@zju.edu.cn
 
 # 🔥 News
-- *2024.11*: &nbsp;🎉 Our paper  is received the Top Paper Award in CCA Division of the 110th NCA, thanks for my co-authors!
-- *2024.11*: &nbsp;🎉 Our paper  is accepted for publication on the journal "Mobile Media and Communication", so excited!!
+- *2024.11*: &nbsp;🎉 Our paper "Proxy and Learning Back-feeding: How Older Adults in China Use Smartphones" is received the Top Paper Award in CCA Division of the 110th NCA, thanks for my co-authors!
+- *2024.11*: &nbsp;🎉 Our paper "Proxy and Learning Back-feeding: How Older Adults in China Use Smartphones" is accepted for publication on the journal "Mobile Media and Communication", so excited!!
 - *2024.10*: &nbsp; Three paper are submitted to the 75th ICA, good luck.
-- *2024.10*: &nbsp;🎉 Our paper 
-- *2024.07*: &nbsp; Our research  is presented at the 2024 IAMCR, thanks for my co-authors!
+- *2024.10*: &nbsp;🎉 Our paper "Intergenerational Support Gap in the Digital Integration of Older Adults" is published on the journal "Global Journal of Media Studies", thanks for my co-authors!
+- *2024.07*: &nbsp; Our research "Exploring Dynamics of Older Adults' Smartphone Usage in China: Mental Health, Using Preferences, Smartphone Dependency" is presented at the 2024 IAMCR, thanks for my co-authors!
 
 # 📝 Publications 
 
@@ -39,7 +45,7 @@ If you are interested in talking with me, please feel free to email me at 223230
 
 **Yiting Liu**, Siyue Li.
 
-- 
+- How do conversation and conformity orientations affect older adults' perceived benefits of and barriers to sharing PHI in families, and thereby impact their sharing openness and health outcomes?
 </div>
 </div>
 
@@ -48,9 +54,9 @@ If you are interested in talking with me, please feel free to email me at 223230
 
 [Proxy and Learning Back-feeding: How Older Adults Use Smartphones in China] (forthcoming). 
 
+Chengyu She, **Yiting Liu**, Siyue Li. 
 
-
--  
+- How do older adults' perceptions of new technologies impact their different participation in two distinguished intergenerational support for smartphone use, and thus influence their digital literacy?
 </div>
 </div>
 
@@ -61,15 +67,15 @@ If you are interested in talking with me, please feel free to email me at 223230
 
 Wenjing Pan, **Yiting Liu**, Siyue Li.
 
-- 
+- How do pervasive drinking culture and individuals' self-orientaions combine together influence Chinese people's attitudes, perceived behavioral control, subjective norms, and thus impact their drinking intentions? 
 </div>
 </div>
 
 - [Intergenerational Support Gap in the Digital Integration of Older Adults] (in Chinese). Siyue Li, Runnan Wei, **Yiting Liu**, Shiyu Han. Global Journal of Media Studies (CSSCI).
 
 # 📝 <a id="conference-presentations"></a>Conference Presentations
-- *2024.11* Li, S.,**Liu, Y.**, She, C.  **(Top Paper Award)**, the 110th NCA, New Orleans, USA
-- *2024.07* **Liu, Y.**, Li S., Han, S., Liu, X. . the 2024 IAMCR, Christchurch, NewZealand.
+- *2024.11* Li, S.,**Liu, Y.**, She, C. Proxy and Learning Back-feeding: How Older Adults Use Smartphones in China **(Top Paper Award)**, the 110th NCA, New Orleans, USA
+- *2024.07* **Liu, Y.**, Li S., Han, S., Liu, X. Exploring Dynamics of Older Adults' Smartphone Usage in China: Mental Health, Using Preferences, Smartphone Dependency. the 2024 IAMCR, Christchurch, NewZealand.
 
 # 💬 <a id="research-experience"></a>Research Experience
 - *2023.09-present*, Research Assistant
