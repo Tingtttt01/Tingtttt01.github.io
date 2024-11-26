@@ -98,4 +98,4 @@ Wenjing Pan, **Yiting Liu**, Siyue Li.
 
 # 💻 Internships
 - *2022.08 - 2023.01*, Dentsu Advertising, Shanghai, China.
-- *2021.07 - 2021.08*, Eastday.com, Shanghai, China.
+- *2021.07 - 2021.08*, Shanghai Orient Webcasting Co.,Ltd, Shanghai, China.
