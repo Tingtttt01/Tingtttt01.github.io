@@ -19,11 +19,11 @@ redirect_from:
 
 **Welcome!**
 
-I'm Yiting, and you can call me Viva (yep, the same as the name of a famous song written by Coldplay).
+I'm Yiting, and you can call me Viva.
 
 I am going to graduate from Zhejiang University with a Master's Degree in Journalism and Communication in June 2025. Resovled to become a communication reseacher, I am currently preparing for my PhD application.
 
-My research interest lies in the intersection of social support, interpersonal, family, health and technology-mediated communication. I am greatly fascinated by an ultimate question: **how can we support each other to overcome challenges in this constantly changing world?**
+My research interest lies in **social support, interpersonal and technology-mediated communication, especially at the intersection of family and health contexts**. I am greatly fascinated by an ultimate question: **How can we support each other to overcome challenges in this constantly changing world?**
 
 Out of my academic zone, I go hiking, climb mountains and ride a bike on a regular basis to reinvigorate myself. 
 
@@ -41,7 +41,7 @@ If you are interested in talking with me, please feel free to email me at 223230
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">2024</div><img src='images/FCP.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Communication Patterns Matter: Chinese Older Adults' Openness to Share Personal Health Information in Families]
+[Communication Patterns Matter: Chinese Older Adults' Openness to Share Personal Health Information in Families] (under review)
 
 **Yiting Liu**, Siyue Li.
 
@@ -49,10 +49,21 @@ If you are interested in talking with me, please feel free to email me at 223230
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2024</div><img src='images/Nomophobia.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Exploring Dynamics of Older Adults' Smartphone Usage in China: Using Preferences, Attitudes toward Aging, Nomophobia] (under review)
+
+**Yiting Liu**, Siyue Li, Shiyue Han, Xiaoting Liu. 
+
+- How do older adults' different smartphone using preferences, attitudes toward aging directly influence their nomophobia? Does their mental health serve as a significant mediator?
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Mobile Media and Communication 2024</div><img src='images/Backfeeding.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Proxy and Learning Back-feeding: How Older Adults Use Smartphones in China] (forthcoming). 
+[Proxy and Learning Back-feeding: How Older Adults Use Smartphones in China] (forthcoming)
 
 Chengyu She, **Yiting Liu**, Siyue Li. 
 
@@ -63,7 +74,7 @@ Chengyu She, **Yiting Liu**, Siyue Li.
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">2024</div><img src='images/TPB.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Cultural Influence on Planned Alcohol Consumption: A Chinese Perspective on Self-view] (under review). 
+[Cultural Influence on Planned Alcohol Consumption: A Chinese Perspective on Self-view] (under review)
 
 Wenjing Pan, **Yiting Liu**, Siyue Li.
 
@@ -79,10 +90,10 @@ Wenjing Pan, **Yiting Liu**, Siyue Li.
 
 # 💬 <a id="research-experience"></a>Research Experience
 - *2023.09-present*, Research Assistant
-- Assisted Professor Siyue (April) Li with the research program "the Impact of New Media Use on Older Adults' Subjective Well-Being under the Perspective of Social Support" granted by the National Social Science Fund, including designing the theoretical research framework, analyzing the data and writing several sections of a series of research paper.
+- Assisted Dr. Siyue (April) Li with the research program "the Impact of New Media Use on Older Adults' Subjective Well-Being under the Perspective of Social Support" granted by the National Social Science Fund, including reviewing key literature, designing the theoretical research framework, analyzing the data and writing several core sections of a series of research paper.
 
 # 🎖 Honors and Awards
-- *2024.11* **Top Paper Award**, CCA Division, National Communication Association
+- *2024.11* **Top Paper Award**, ICCA Division, National Communication Association
 - *2024.10* **Outstanding Graduate Student** (Top 10%), Zhejiang University
 - *2022.11* **Second Prize Academic Scholarship** (Top 15%), East China Normal University
 - *2021.11* **First Prize Academic Scholarship** (Top 10%), East China Normal University
