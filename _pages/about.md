@@ -52,7 +52,7 @@ If you are interested in talking with me, please feel free to email me at yiting
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">2024</div><img src='images/Nomophobia.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Exploring Dynamics of Older Adults' Smartphone Usage in China: Using Preferences, Attitudes toward Aging, Nomophobia] (under review)
+[Exploring Dynamics of Older Adults' Nomophobia in China: Using Preferences, Attitudes toward Aging, and Mental Health] (under review)
 
 **Yiting Liu**, Siyue Li, Shiyue Han, Xiaoting Liu. 
 
