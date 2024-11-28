@@ -27,7 +27,7 @@ My research interest lies in **social support, interpersonal and technology-medi
 
 Out of my academic zone, I go hiking, climb mountains and ride a bike on a regular basis to reinvigorate myself. 
 
-If you are interested in talking with me, please feel free to email me at 22323065@zju.edu.cn
+If you are interested in talking with me, please feel free to email me at yitingliu@zju.edu.cn
 
 # 🔥 News
 - *2024.11*: &nbsp;🎉 Our paper "Proxy and Learning Back-feeding: How Older Adults in China Use Smartphones" is received the Top Paper Award in CCA Division of the 110th NCA, thanks for my co-authors!
