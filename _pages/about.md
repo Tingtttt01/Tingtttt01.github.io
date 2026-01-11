@@ -61,7 +61,6 @@ Chengyu She, **Yiting Liu**, Siyue Li (2025). Mobile Media and Communication
 </div>
 </div>
 
-
 [Intergenerational Support Gap in the Digital Integration of Older Adults] (in Chinese)
 
 Siyue Li, Runnan Wei, **Yiting Liu**, Shiyu Han (2024). Global Journal of Media Studies (CSSCI)
@@ -97,7 +96,7 @@ Siyue Li, Runnan Wei, **Yiting Liu**, Shiyu Han (2024). Global Journal of Media 
 - *2019.07 - 08, 2020.07 - 08, 2023.07 - 08*, English Instructor, New Mufu Education Inc.
 
 # 📖 Educations
-- *2025.09 - present*, Ph.D in Communication, information, and Media, Rutgers University, New Brunswick
+- *2025.09 - present*, Ph.D in Communication, Information, and Media, Rutgers University, New Brunswick
 - *2023.09 - 2025.06*, Master in Journalism and Communication, Zhejiang University, Hangzhou
 - *2019.09 - 2023.06*, Bachelor in Journalism, East China Normal University, Shanghai
 
