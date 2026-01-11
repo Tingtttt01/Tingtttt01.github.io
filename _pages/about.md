@@ -31,11 +31,11 @@ If you are interested in talking with me, please feel free to email me at yiting
 
 # 🔥 News
 - *2025.05*: &nbsp;🎉 Our paper "Cultural Influence on Planned Alcohol Consumption: A Chinese Perspective on Self-view" is accepted for publication on the Journal "Health Communication", many thanks to my co-authors!
-- *2025.01*: &nbsp;🎉 Our paper "Communication Patterns Matter: Chinese Older Adults' Openness to Share Personal Health Information in Families" is accepted by the 75th ICA, thanks for my co-author!
+- *2025.01*: &nbsp; Our research "Communication Patterns Matter: Chinese Older Adults' Openness to Share Personal Health Information in Families" is accepted by the 75th ICA, thanks for my co-author!
 - *2024.11*: &nbsp;🎉 Our paper "Proxy and Learning Back-feeding: How Older Adults in China Use Smartphones" is received the Top Paper Award in CCA Division of the 110th NCA, thanks for my co-authors!
 - *2024.11*: &nbsp;🎉 Our paper "Proxy and Learning Back-feeding: How Older Adults in China Use Smartphones" is accepted for publication on the journal "Mobile Media and Communication", so excited!!
 - *2024.10*: &nbsp;🎉 Our paper "Intergenerational Support Gap in the Digital Integration of Older Adults" is published on the journal "Global Journal of Media Studies", thanks for my co-authors!
-- *2024.07*: &nbsp; Our research "Exploring Dynamics of Older Adults' Smartphone Usage in China: Mental Health, Using Preferences, Smartphone Dependency" is presented at the 2024 IAMCR, thanks for my co-authors!
+- *2024.03*: &nbsp; Our research "Exploring Dynamics of Older Adults' Smartphone Usage in China: Mental Health, Using Preferences, Smartphone Dependency" is accepted by the 2024 annual conference of the IAMCR, thanks for my co-authors!
 
 # 📝 Publications 
 
