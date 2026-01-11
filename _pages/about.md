@@ -39,7 +39,7 @@ If you are interested in talking with me, please feel free to email me at yiting
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2024</div><img src='images/TPB.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2025</div><img src='images/TPB.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Cultural Influence on Planned Alcohol Consumption: A Chinese Perspective on Self-view] 
@@ -50,7 +50,7 @@ Wenjing Pan, **Yiting Liu**, Siyue Li (2025). Health communication
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2024</div><img src='images/FCP.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2025</div><img src='images/Backfeeding.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Proxy and Learning Back-feeding: How Older Adults Use Smartphones in China]
