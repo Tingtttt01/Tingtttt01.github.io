@@ -61,13 +61,13 @@ Chengyu She, **Yiting Liu**, Siyue Li (2025). Mobile Media and Communication
 </div>
 </div>
 
+
 [Intergenerational Support Gap in the Digital Integration of Older Adults] (in Chinese)
 
 Siyue Li, Runnan Wei, **Yiting Liu**, Shiyu Han (2024). Global Journal of Media Studies (CSSCI)
 
 - How do family communication patterns influence older adults' experiences of support gaps when using smartphones, and thereby their subjective wellbeings?
-</div>
-</div>
+
 
 # 📝 <a id="conference-presentations"></a>Conference Presentations
 - *2025.06* **Liu, Y.**, Li, S. Communication Patterns Matter: Chinese Older Adults' Openness to Share Personal Health Information in Families. the 75th ICA, Denver, U.S.
