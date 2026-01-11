@@ -79,6 +79,12 @@ Siyue Li, Runnan Wei, **Yiting Liu**, Shiyu Han (2024). Global Journal of Media 
 - *2023.09-2025.06*, Research Assistant
 - Assisted Dr. Siyue (April) Li with the research program "the Impact of New Media Use on Older Adults' Subjective Well-Being under the Perspective of Social Support" granted by the National Social Science Fund, including reviewing key literature, designing the theoretical research framework, analyzing the data and writing several core sections of a series of research paper.
 
+# 📖 <a id="teaching-experience"></a>Teaching Experience
+- *2026.01 - present*, Teaching Assistant, 04:189:101 Intro to Communication and Information Process, Rutgers University
+- *2025.09 - 2025.12*, Teaching Assistant, 04:192:200 Communication Theory, Rutgers University
+- *2024.09 - 2025.01*, Teaching Assistant, MIC3153M Health Communication, Zhejiang University
+- *2019.07 - 08, 2020.07 - 08, 2023.07 - 08*, English Instructor, New Mufu Education Inc.
+
 # 🎖 Honors and Awards
 - *2025.04* **Presidential Fellowship**, Rugters University
 - *2025.02* **Outstanding Graduate Student** (Top 10%), Zhejiang University
@@ -88,12 +94,6 @@ Siyue Li, Runnan Wei, **Yiting Liu**, Shiyu Han (2024). Global Journal of Media 
 - *2022.11* **Second Prize Academic Scholarship** (Top 15%), East China Normal University
 - *2021.11* **First Prize Academic Scholarship** (Top 10%), East China Normal University
 - *2020.11* **Second Prize Academic Scholarship** (Top 15%), East China Normal University
-
-# 📖 <a id="teaching-experience"></a>Teaching Experience
-- *2026.01 - present*, Teaching Assistant, 04:189:101 Intro to Communication and Information Process, Rutgers University
-- *2025.09 - 2025.12*, Teaching Assistant, 04:192:200 Communication Theory, Rutgers University
-- *2024.09 - 2025.01*, Teaching Assistant, MIC3153M Health Communication, Zhejiang University
-- *2019.07 - 08, 2020.07 - 08, 2023.07 - 08*, English Instructor, New Mufu Education Inc.
 
 # 📖 Educations
 - *2025.09 - present*, Ph.D in Communication, Information, and Media, Rutgers University, New Brunswick
