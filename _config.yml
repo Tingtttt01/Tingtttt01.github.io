@@ -23,12 +23,12 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Yiting Liu"
   avatar           : "images/DSC06151.JPG"
-  bio              : "Zhejiang University"
-  location         : "Hangzhou, China"
+  bio              : "Rutgers University"
+  location         : "New Brunswick, NJ, U.S."
   employer         : #
   pubmed           : #
-  googlescholar    :  # "https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
-  email            : "yitingliu@zju.edu.cn"
+  googlescholar    : "https://scholar.google.com/citations?hl=en&pli=1&user=bVyEfyIAAAAJ"
+  email            : "yiting.liu01@rutgers.edu"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
