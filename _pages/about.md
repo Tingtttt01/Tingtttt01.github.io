@@ -75,7 +75,7 @@ Siyue Li, Runnan Wei, **Yiting Liu**, Shiyu Han (2024). Global Journal of Media 
 
 # 💬 <a id="research-experience"></a>Research Experience
 - *2025.09-present*, Research Assistant
-- Work with Dr. Jennifer Thiess on the research program about communication between romantic couples and conflicts.
+- Work with Dr. Jennifer Theiss on the research program about communication between romantic couples and conflicts.
 - *2023.09-2025.06*, Research Assistant
 - Assisted Dr. Siyue (April) Li with the research program "the Impact of New Media Use on Older Adults' Subjective Well-Being under the Perspective of Social Support" granted by the National Social Science Fund, including reviewing key literature, designing the theoretical research framework, analyzing the data and writing several core sections of a series of research paper.
 
